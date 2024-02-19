@@ -23,7 +23,7 @@
 - Frontend:Html,Css,Javascript and React
 
 #### Previous skills
--MERN stack
+- MERN stack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
