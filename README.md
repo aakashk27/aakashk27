@@ -22,7 +22,7 @@
 - Git/GitHub
 - Frontend:Html,Css,Javascript and React
 
-###Previous skills
+#### Previous skills
 -MERN stack
 
 <h3 align="left">Connect with me:</h3>
