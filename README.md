@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **Backend development using Python and Django**
 
+- Intern @ Uniacco
+
 - 👯 I’m looking to collaborate on **Backend Projects, especially those involving Python/Django**
 
 - 📫 You can reach me at **aakash27khana@gmail.com**
