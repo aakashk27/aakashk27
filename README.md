@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aakash Khanna</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p style="background-image: url('https://images.app.goo.gl/YaMCdxefE31aE1KPA');">
+[![Responsive Full Background Image](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](http://sixrevisions.com/css/responsive-background-image/)
+
 
 - 🔭 I’m currently working on **Backend development using Python and Django**
 
