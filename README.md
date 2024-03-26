@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Khanna</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-[![Responsive Full Background Image](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](http://sixrevisions.com/css/responsive-background-image/)
+(http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)
 
 
 - 🔭 I’m currently working on **Backend development using Python and Django**
