@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Khanna</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p style="background-image: url('img_girl.jpg');">
+<p style="background-image: url('https://images.app.goo.gl/YaMCdxefE31aE1KPA');">
 
 - 🔭 I’m currently working on **Backend development using Python and Django**
 
