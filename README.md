@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React">
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashk27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <!-- About Me -->
 <h3 align="center">A Little About Me</h3>
 <p align="center">When I'm not coding, you can find me on the cricket field, chasing boundaries and taking wickets!</p>
