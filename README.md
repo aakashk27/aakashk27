@@ -35,7 +35,6 @@
 <p align="center">
   <a href="https://instagram.com/aakashk._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.hackerrank.com/aakash27khana" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://www.leetcode.com/aakash27khana" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
 </p>
 
 <!-- Footer -->
