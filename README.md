@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Backend Developer</h3>
 
 <!-- Introduction -->
-<p align="center">Welcome to my GitHub! I'm Aakash, a backend developer with a flair for Python and Django. Currently interning at Uniacco, I'm always eager to collaborate on exciting backend projects.</p>
+<p align="center">Welcome to my GitHub! I'm Aakash, a backend developer with a flair for Python and Django. Currently interning at Uniacco, I'm always eager to collaborate on exciting backend projects.I have previously worked on MERN stack.</p>
 
 <!-- Skills -->
 <h3 align="center">My Skills</h3>
