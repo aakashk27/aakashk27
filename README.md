@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/-RESTful_APIs-61DAFB?style=for-the-badge&logo=rest&logoColor=white&shadow=true" alt="RESTful APIs">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&shadow=true" alt="SQL/Database Management">
   <img src="https://img.shields.io/badge/-Git/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&shadow=true" alt="Git/GitHub">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&shadow=true" alt="HTML">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&shadow=true" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white&shadow=true" alt="Java">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&shadow=true" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&shadow=true" alt="JavaScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white&shadow=true" alt="React">
