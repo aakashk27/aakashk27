@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Aakash Khanna!</h1>
 
 <!-- Subtitle -->
-<h2 align="center">🚀 Backend Developer | Python Enthusiast | Tech Explorer</h2>
+<h2 align="center">🚀 FullStack Developer | Python Enthusiast | Tech Explorer</h2>
 
 <!-- About Section -->
 <p align="center">
