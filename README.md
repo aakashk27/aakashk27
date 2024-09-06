@@ -11,6 +11,7 @@
 
 <!-- About Section -->
 <p align="center">
+  <strong> Ex-intern at Uniacco </strong><br>
   <strong>Welcome to my tech space!</strong> 🌟 I’m Aakash, a dedicated backend developer specializing in Python and Django. Ex-intern at Uniacco, I thrive on tackling complex problems and turning ideas into elegant, scalable solutions. Formerly a MERN stack aficionado.
 </p>
 
