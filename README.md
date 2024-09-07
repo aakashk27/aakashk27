@@ -45,8 +45,10 @@
 <h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
   <a href="https://instagram.com/aakashk._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&shadow=true" alt="Instagram"></a>
-<!--   <a href="https://www.linkedin.com/in/aakashkhanna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&shadow=true" alt="LinkedIn"></a> -->
+ <a href="https://www.linkedin.com/in/aakash-khanna-304041248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&shadow=true" alt="LinkedIn"></a>
   <a href="https://www.hackerrank.com/aakash27khana" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&shadow=true" alt="HackerRank"></a>
+  <a href="https://leetcode.com/u/aakashk_27/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&shadow=true" alt="LeetCode"></a>
+
 </p>
 
 <!-- Contact -->
