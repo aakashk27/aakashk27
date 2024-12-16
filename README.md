@@ -17,7 +17,7 @@
 
 <!-- Download Resume Button -->
 <p align="center">
-  <a href="https://github.com/aakashk27/Aakash_Resume" download>
+ <a href="https://github.com/aakashk27/Aakash_Resume/raw/main/Aakash_Khanna_Resume.pdf" download>
     <img src="https://img.shields.io/badge/-Download%20Resume-4CAF50?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download Resume">
   </a>
 </p>
