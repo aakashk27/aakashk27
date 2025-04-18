@@ -11,15 +11,9 @@
 
 <!-- About Section -->
 <p align="center">
+  <strong> Intern at Verbaflo.ai </strong><br>
   <strong> Ex-intern at Uniacco </strong><br>
-  <strong>Welcome to my tech space!</strong> 🌟 I’m Aakash, a dedicated backend developer specializing in Python and Django. Ex-intern at Uniacco, I thrive on tackling complex problems and turning ideas into elegant, scalable solutions. Formerly a MERN stack aficionado.
-</p>
-
-<!-- Download Resume Button -->
-<p align="center">
- <a href="https://github.com/aakashk27/Aakash_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/-Download%20Resume-4CAF50?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="View Resume">
-  </a>
+  <strong>Welcome to my tech space!</strong> 🌟 I’m Aakash, a dedicated backend developer specializing in Python, Django and FastAPI. I thrive on tackling complex problems and turning ideas into elegant, scalable solutions. Formerly a MERN stack aficionado.
 </p>
 
 <!-- Shields and Badges -->
