@@ -11,7 +11,7 @@
 
 <!-- About Section -->
 <p align="center">
-  <strong> AI Engineer Verbaflo.ai </strong><br>
+  <strong> AI Backend Engineer Verbaflo.ai </strong><br>
   <strong> Ex-intern at Uniacco </strong><br>
   <strong>Welcome to my tech space!</strong> 🌟 I’m Aakash, a dedicated backend developer specializing in Python, Django and FastAPI. I thrive on tackling complex problems and turning ideas into elegant, scalable solutions. Formerly a MERN stack aficionado.
 </p>
